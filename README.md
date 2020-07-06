@@ -11,18 +11,10 @@ This Excel Model has the ability to:
 ## Dependencies
 
 *   Microsoft Excel and Access
+*   Must place both files "SAT score calculator 3.xlsm" & "SAT Score Database in the same folder"
 *   Must have "Solver" enabled
 *   Must enable macros on startup
 
-## What's Included
-
-The first part of the model is the excel sheet named “Userform”. This is where users can choose the
-practice test they have done and enter the raw scores for each section of the SAT into the
-appropriate textboxes. Once you press “Submit” button on the “Userform” sheet, A box beneath the
-button will give you the overall score for that practice test. If there are any mistakes entered into the
-textboxes, such as entering text instead of numbers, the model will produce an error message. The
-box in which the overall score is presented, is disabled while the user enters the raw scores to
-prevent any alteration of the score by the user.
-
-!(UserForm_1.png)
-
+## What's Included and how to use guide
+Check out the Wiki:
+https://github.com/stho382/SAT-Score-Calculator/wiki/
