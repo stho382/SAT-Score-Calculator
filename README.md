@@ -24,5 +24,5 @@ textboxes, such as entering text instead of numbers, the model will produce an e
 box in which the overall score is presented, is disabled while the user enters the raw scores to
 prevent any alteration of the score by the user.
 
-!(https://github.com/stho382/SAT-Score-Calculator/blob/Master/UserForm_1.png?raw=true)
+!(UserForm_1.png)
 
