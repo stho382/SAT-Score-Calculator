@@ -7,7 +7,7 @@ This Excel Model has the ability to:
 *   An interactive dashboard is also included in which you can compare the results of two
     practice tests
 
-# Dependencies
+## Dependencies
 
 *   Microsoft Excel and Access
 *   Must have "Solver" Enabled
